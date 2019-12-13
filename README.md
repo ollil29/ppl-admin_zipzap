@@ -15,8 +15,6 @@ Demo
 ----------------
 You can check the website preview with **[this link](https://gurayyarar.github.io/AdminBSBMaterialDesign/)**  
 
-![AdminBSB - Free Admin Template With Material Design](https://raw.githubusercontent.com/gurayyarar/AdminBSBMaterialDesign/master/images/screenshot.png)
-
 Installation
 ----------------
 You can choose one from multiple ways for installation.
